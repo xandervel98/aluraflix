@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "titulo": "React Hooks: ¿qué son y cómo funcionan?",
+      "categoria": "FRONT END",
+      "imagen": "https://img.youtube.com/vi/9xlea2yDFaY/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/9xlea2yDFaY?si=iNy7x1BLw_lXUcdp",
+      "descripcion": "En este Alura+ el instructor Daniel Riverol nos enseña los diferentes usos de uno de los hooks más utilizados en React",
+      "id": "1"
+    },
+    {
+      "titulo": "Simplificando el Back End",
+      "categoria": "BACK END",
+      "imagen": "https://img.youtube.com/vi/XuSXJ9DUcvY/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/XuSXJ9DUcvY?si=YGbccJrY72yvIoDe",
+      "descripcion": "¿Quieres conocer y entender mejor qué es el Back End? En este video Bismarck Berrios nos explica qué es el back end de una manera sencilla.",
+      "id": "2"
+    },
+    {
+      "titulo": "¿Cuál Herramienta de Gestión de Proyectos es la Mejor para Ti?",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "imagen": "https://img.youtube.com/vi/O4cxvckONRE/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/O4cxvckONRE?si=aCIWidz7atCAZc1p",
+      "descripcion": "En este AluraTips, Ellen Pimentel comparte su trayectoria en la gestión de proyectos, comenzando desde su formación en Turismo hasta su transición a la programación y su rol actual en Alura.",
+      "id": "3"
+    },
+    {
+      "titulo": "Animando un texto en HTML y CSS",
+      "categoria": "FRONT END",
+      "imagen": "https://img.youtube.com/vi/j71g5TiMA-M/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/j71g5TiMA-M?si=kte6cXG2bMyUBDYk",
+      "descripcion": "En este Alura+ nuestra instructora Genesys Rondon nos enseñará como hacer una animación que simula lo que pasa en la computadora al escribir una frase, con HTML y CSS",
+      "id": "4"
+    },
+    {
+      "titulo": "Transforma y Limpia Datos Textuales en Pandas",
+      "categoria": "BACK END",
+      "imagen": "https://img.youtube.com/vi/6__k-D4Y3Vk/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/6__k-D4Y3Vk?si=p25MGbZcVGi76WUE",
+      "descripcion": "En este video, nuestra mentora Ingrid Silva te guiará a través de la manipulación de strings utilizando la potente biblioteca Pandas de Python. Aprenderás a aprovechar al máximo las funciones y métodos que Pandas ofrece para trabajar con datos textuales, facilitando así la limpieza y transformación de información en tus proyectos.",
+      "id": "5"
+    },
+    {
+      "titulo": "Empresas que aprenden",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "imagen": "https://img.youtube.com/vi/mwNfWRsDDWE/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/mwNfWRsDDWE?si=dJDpoRrM_GZWZSrc",
+      "descripcion": "En este AluraTips, Ellen Pimentel comparte su trayectoria en la gestión de proyectos, comenzando desde su formación en Turismo hasta su transición a la programación y su rol actual en Alura.",
+      "id": "6"
+    },
+    {
+      "titulo": "Box Model y Box sizing",
+      "categoria": "FRONT END",
+      "imagen": "https://img.youtube.com/vi/ts9qfCKamKg/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/ts9qfCKamKg?si=U9qd41oSJrJwu7KE",
+      "descripcion": "En este Alura+ nuestra instructora front-end, Jeanmarie Quijada, nos ayudará a entender que es Box Model, uno de los conceptos fundamentales para la construcción correcta de layouts de páginas web.\n",
+      "id": "9e3a"
+    },
+    {
+      "id": "e13b",
+      "titulo": "La importancia de la Visión de Negocio para las personas desarrolladoras",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "imagen": "https://img.youtube.com/vi/PtPyM0ZgshA/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/PtPyM0ZgshA?si=Ut4wA1jXe7ke7Zgz",
+      "descripcion": "En este video, nuestra instructora Ellen Pimentel comenta por qué una persona programadora debe desarrollar la Visión de Negocio y la importancia de esta habilidad para su carrera."
+    },
+    {
+      "id": "bdb4",
+      "titulo": "Spring Framework. ¿Qué es ?",
+      "categoria": "BACK END",
+      "imagen": "https://img.youtube.com/vi/t-iqt1b2qqk/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/t-iqt1b2qqk?si=-ip3-ISy1WTKLL66",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
+    }
+  ]
+}
